@@ -7,7 +7,7 @@ load_dotenv()
 
 api_key = os.getenv("OPENAI_API_KEY")
 
-llm = ChatOpenAI(model="gpt-4o", temperature=0, api_key=api_key)
+llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0, api_key=api_key)
 
 def ask_bot(message, history):
     return llm.invoke(message).content
