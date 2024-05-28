@@ -1,4 +1,4 @@
-# LLM4Devs
+<!-- # LLM4Devs
 
 Olá! Que honra ter você conosco no Bootcamp LLM4Devs! Espero que o bootcamp seja muito útil na sua jornada na criação de aplicações baseadas em LLMs.
 
@@ -101,4 +101,4 @@ Após o bootcamp, para continuar progredindo nos estudos, considere implementar 
 - Estude como os dados são inseridos no banco. Brinque com os tamanhos e estratégias de chunking.
 - Estudo e implemente diferentes estratégias para limpeza de dados. Pense como essas estratégias podem ser utilizadas em diferentes tipos de dados (considere tipos de dados como XML, JSON, trechos de código, tabelas, etc). 
 
-Ao longo da sua implementação, usse o Discord para discutir suas soluções.
+Ao longo da sua implementação, usse o Discord para discutir suas soluções. -->
